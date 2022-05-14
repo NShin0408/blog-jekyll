@@ -1,2 +1,9 @@
-## Welcome to GitHub Pag
-## Welcome to GitHub Pag2
+***
+### Blogs
+
+{% for post in site.posts %}
+{{ post.title }}
+{% endfor %}
+
+***
+twitter:xxxx
