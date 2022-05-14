@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pag
 
 You can use the [editor on GitHub](https://github.com/NShin0408/NShin0408.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
