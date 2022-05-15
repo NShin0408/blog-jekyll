@@ -1,4 +1,4 @@
 title: "narishin blog"
-theme: "minimal-mistakes-jekyll"
+theme: jekyll-theme-minimal
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
